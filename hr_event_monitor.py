@@ -241,6 +241,26 @@ SITES = [
         "url": "https://chef.se/chefakademin-talks/#webinar",
         "selector": None,
     },
+    {
+        "name": "Eletive",
+        "url": "https://eletive.com/events/",
+        "selector": None,
+    },
+    {
+        "name": "Handelshögskolan BI",
+        "url": "https://www.bi.no/en/business-and-alumni/webinars-and-seminars-from-bi/",
+        "selector": None,
+    },
+    {
+        "name": "Edvida",
+        "url": "https://www.edvida.se/allmana-hornan",
+        "selector": None,
+    },
+    {
+        "name": "Advantum Kompetens",
+        "url": "https://www.advantumkompetens.se/webbinarier/",
+        "selector": None,
+    },
     # Lägg till fler sajter här:
     # {
     #     "name": "Namn på sajt",
