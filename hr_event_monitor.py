@@ -261,6 +261,26 @@ SITES = [
         "url": "https://www.advantumkompetens.se/webbinarier/",
         "selector": None,
     },
+    {
+        "name": "Nyckeltalsintitutet",
+        "url": "https://nyckeltal.se/utbildningar-webinars",
+        "selector": None,
+    },
+    {
+        "name": "Starck & Partner",
+        "url": "https://starckpartner.se/natverk/kommande-aktiviteter",
+        "selector": None,
+    },
+    {
+        "name": "Avonova",
+        "url": "https://avonova.se/aktuella-webbinarium-och-event-hos-avonova",
+        "selector": None,
+    },
+    {
+        "name": "Weselect",
+        "url": "https://www.weselect.com/sv/event",
+        "selector": None,
+    },
     # Lägg till fler sajter här:
     # {
     #     "name": "Namn på sajt",
