@@ -281,12 +281,23 @@ SITES = [
         "url": "https://www.weselect.com/sv/event",
         "selector": None,
     },
+    {
+        "name": "Winningtemp",
+        "url": "https://www.winningtemp.com/sv/lunch-learn",
+        "selector": None,
+    },
+    {
+        "name": "Winningtemp",
+        "url": "https://www.winningtemp.com/sv/events",
+        "selector": None,
+    },
     # Lägg till fler sajter här:
     # {
     #     "name": "Namn på sajt",
     #     "url": "https://sajt.se/events/",
     #     "selector": None,
     # },
+
 ]
 
 # ============================================================
